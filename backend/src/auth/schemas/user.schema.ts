@@ -12,6 +12,9 @@ name: string;
 email: string;
 
 @Prop()
+role: string;
+
+@Prop()
 password: string;
 
 }
